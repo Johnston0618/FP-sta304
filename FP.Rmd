@@ -7,19 +7,19 @@ output: pdf_document
 
 
 ## Keywords
-JUSTIN TRUDEAU, 2019 CANADIAN ELECTION, FORECASTING, MULTILEVEL REGRESSION WITH POSTSTRATIFICATION
+Trudeau, Scheer, 2019 Canadian Federal Election, Liberal, , Conservative, forecasting, Multilevel regression with post-stratification
 
 ## Abstract
-
+The Canadian election is an important event in Canada. The goal is to predict Trudeau or Scheer would win the election, in other words which party will win the election. I forecast the election by the survey data using a multilevel regression with post-stratification. Liberal gains 157 seats and Conservative gains 21 seats.
   
 
 ## Introduction
 
+ Through the 2019 Canadian Federal election, Trudeau could go back to the Prime Minister’s Office. He would lead Liberal minority government. The Liberal lost 20 seat, but its opposite Conservative get 26 seats. The total turnout decreased for 68% to 62%. There are lots of people support Liberal in Ontario. 
   
-  
-  In order to do prediction on our interest, we combine individual survey data from CES and census data from 2016 Stat Canada Eduaction Census to use a multilevel regression with poststratification. We also create a Bayesian multilevel logistic model, variables associated with voter preference were extracted. The outcome we found is that xxx will win this election.
+  In order to do prediction on our interest: the Result of 2019 Canadian Federal Election if Everyone can Vote, we combine individual survey data from CES and census data from 2016 Stat Canada Eduaction Census to use a multilevel regression with post-stratification. We also create a Bayesian logistic regression model. The outcome we found is that xxx will win this election.
 
-  This work will continue to further explore the data from CES and 2016 Stat Canada Eduaction Census. Firstly, we summarize features of two datasets and visualize some variables of interest to our model. Next, we describe the features of our model and post-stratification process. Finally, we discuss our prediction of the result of 2019 Canadian Federal Election if "everyone" voted. And we discuss the weaknesses of the proect, also give suggestions for the further study 
+  This work will continue to analyze the data from CES and 2016 Stat Canada Eduaction Census. Firstly, we summarize features of two dataset and visualize some variables of interest to our model. Next, we describe the features of our model and post-stratification process. Finally, we discuss our prediction of the result of 2019 Canadian Federal Election if "everyone" voted. And we discuss the weaknesses of the project, also give suggestions for the further study 
 
 ## Data
 fjasfja
