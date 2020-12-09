@@ -1,0 +1,58 @@
+---
+title: "Prediction of the Result of 2019 Canadian Federal Election if Everyone can Vote"
+author: "YUWEN WU"
+date: "10/12/2020"
+output: pdf_document
+---
+
+
+## Keywords
+JUSTIN TRUDEAU, 2019 CANADIAN ELECTION, FORECASTING, MULTILEVEL REGRESSION WITH POSTSTRATIFICATION
+
+## Abstract
+
+  
+
+## Introduction
+
+  
+  
+  In order to do prediction on our interest, we combine individual survey data from CES and census data from 2016 Stat Canada Eduaction Census to use a multilevel regression with poststratification. We also create a Bayesian multilevel logistic model, variables associated with voter preference were extracted. The outcome we found is that xxx will win this election.
+
+  This work will continue to further explore the data from CES and 2016 Stat Canada Eduaction Census. Firstly, we summarize features of two datasets and visualize some variables of interest to our model. Next, we describe the features of our model and post-stratification process. Finally, we discuss our prediction of the result of 2019 Canadian Federal Election if "everyone" voted. And we discuss the weaknesses of the proect, also give suggestions for the further study 
+
+## Data
+fjasfja
+
+## CES dataset
+FH;ofhew
+
+## 2016 Stat Canada Eduaction Census 
+avao;sihg
+
+## Data Cleaning
+sgaihgao;
+
+
+## Model
+aghfoa;eha
+
+## Results
+safha;o
+
+## Discussion
+chfAFH
+
+## Limitations and Weaknesses
+
+fhaofhoesi
+
+## Future Work
+	
+ahiohciohf
+
+## Appendix
+fapa
+
+## References
+vspfhapof
