@@ -4,8 +4,6 @@ author: "YUWEN WU"
 date: "10/12/2020"
 output: pdf_document
 ---
-
-
 ## Keywords
 Trudeau, Scheer, 2019 Canadian Federal Election, Liberal, , Conservative, forecasting, Multilevel regression with post-stratification
 
@@ -19,13 +17,13 @@ The Canadian election is an important event in Canada. The goal is to predict Tr
   
   In order to do prediction on our interest: the Result of 2019 Canadian Federal Election if Everyone can Vote, we combine individual survey data from CES and census data from 2016 Stat Canada Eduaction Census to use a multilevel regression with post-stratification. We also create a Bayesian logistic regression model. The outcome we found is that xxx will win this election.
 
-  This work will continue to analyze the data from CES and 2016 Stat Canada Eduaction Census. Firstly, we summarize features of two dataset and visualize some variables of interest to our model. Next, we describe the features of our model and post-stratification process. Finally, we discuss our prediction of the result of 2019 Canadian Federal Election if "everyone" voted. And we discuss the weaknesses of the project, also give suggestions for the further study 
+  This work will continue to analyze the data from CES and 2016 Stat Canada Eduaction Census. Firstly, we summarize features of two dataset and visualize some variables of interest to our model. Next, we describe the features of our model and post-stratification process. Finally, we discuss our prediction of the result of 2019 Canadian Federal Election if "everyone" voted. And we discuss the weaknesses of the project, also give suggestions for the further study.
 
 ## Data
 fjasfja
 
 ## CES dataset
-FH;ofhew
+FHofhew
 
 ## 2016 Stat Canada Eduaction Census 
 avao;sihg
